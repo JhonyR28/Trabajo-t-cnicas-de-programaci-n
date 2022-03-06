@@ -2,7 +2,6 @@
 """
 Created on Thu Feb 17 13:28:25 2022
 
-@author: Ricardo Passuni Meza
 """
 #%%
 #Comenzamos con la descarga de datos, usando la librería phd_scraper se obtuvo los datos de la estación del OVH almacenados en el servidor de SENAMHI, donde tuvimos que especificar el código de estación y las fechas
